@@ -85,11 +85,10 @@ npm run dev
 
 ## Screenshots
 <p>MongoDB Atlas Screenshot :</p>
-<img src="https://raw.githubusercontent.com/rohitkadu/Employee-Management-System-MERN-Full-Stack-Web-Application/main/outputSS/db%20screenshot.png">
+<img width="1920" height="1020" alt="Screenshot 2025-07-04 173348" src="https://github.com/user-attachments/assets/5cf775f5-aa0d-4d4c-9c72-ebaec5514515" />
+
 
 <p>Create & Update Operation Screenshot :</p>
-<img src="https://raw.githubusercontent.com/rohitkadu/Employee-Management-System-MERN-Full-Stack-Web-Application/main/outputSS/Create%20Update%20Screenshot.png">
+<img width="1912" height="876" alt="Screenshot 2025-07-04 173336" src="https://github.com/user-attachments/assets/4e8fc472-0260-4122-b960-d467d74b386f" />
 
-<p>Update & Delete Operation Screenshot :</p>
-<img src="https://raw.githubusercontent.com/rohitkadu/Employee-Management-System-MERN-Full-Stack-Web-Application/main/outputSS/Read%20Delete%20Upadate%20Screenshot.png">
 
